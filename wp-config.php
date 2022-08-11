@@ -30,7 +30,7 @@ define( 'DB_USER', 'cedrotra_cp' );
 define( 'DB_PASSWORD', 'marcelo306090' );
 
 /** Nome do host do MySQL */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '162.215.1.177' );
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define( 'DB_CHARSET', 'utf8mb4' );
