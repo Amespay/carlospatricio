@@ -1,0 +1,1674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Miako Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-30 06:24+0000\n"
+"PO-Revision-Date: 2020-12-09 17:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#: widgets/rt-open-hour-widget.php:119
+msgid "-"
+msgstr ""
+
+#: vc-modules/law-grid.php:17 vc-modules/law-slider.php:18
+#: vc-modules/post.php:18 vc-modules/team-grid.php:17 vc-modules/team.php:18
+#: vc-modules/testimonial.php:17
+msgid "1 col"
+msgstr ""
+
+#: vc-modules/team.php:331
+msgid "1 Second"
+msgstr ""
+
+#: vc-modules/law-slider.php:221 vc-modules/post.php:252
+#: vc-modules/testimonial.php:257
+msgid "1 Seconds"
+msgstr ""
+
+#: vc-modules/title.php:135
+msgid "10%"
+msgstr ""
+
+#: vc-modules/title.php:125
+msgid "100%"
+msgstr ""
+
+#: vc-modules/law-grid.php:18 vc-modules/law-slider.php:19
+#: vc-modules/post.php:19 vc-modules/team-grid.php:18 vc-modules/team.php:19
+#: vc-modules/testimonial.php:18
+msgid "2 col"
+msgstr ""
+
+#: vc-modules/law-slider.php:220 vc-modules/post.php:251
+#: vc-modules/team.php:330 vc-modules/testimonial.php:256
+msgid "2 Seconds"
+msgstr ""
+
+#: vc-modules/title.php:134
+msgid "20%"
+msgstr ""
+
+#: vc-modules/progress-bar.php:16
+msgid "2016 Solved Case"
+msgstr ""
+
+#: vc-modules/miako-cta.php:77
+msgid "2nd Title Text "
+msgstr ""
+
+#: vc-modules/law-grid.php:19 vc-modules/law-slider.php:20
+#: vc-modules/post.php:20 vc-modules/team-grid.php:19 vc-modules/team.php:20
+#: vc-modules/testimonial.php:19
+msgid "3 col"
+msgstr ""
+
+#: vc-modules/law-slider.php:219 vc-modules/post.php:250
+#: vc-modules/team.php:329 vc-modules/testimonial.php:255
+msgid "3 Seconds"
+msgstr ""
+
+#: vc-modules/title.php:133
+msgid "30%"
+msgstr ""
+
+#: vc-modules/law-grid.php:20 vc-modules/law-slider.php:21
+#: vc-modules/post.php:21 vc-modules/team-grid.php:20 vc-modules/team.php:21
+#: vc-modules/testimonial.php:20
+msgid "4 col"
+msgstr ""
+
+#: vc-modules/law-slider.php:218 vc-modules/post.php:249
+#: vc-modules/team.php:328 vc-modules/testimonial.php:254
+msgid "4 Seconds"
+msgstr ""
+
+#: vc-modules/title.php:132
+msgid "40%"
+msgstr ""
+
+#: vc-modules/law-slider.php:217 vc-modules/post.php:248
+#: vc-modules/team.php:327 vc-modules/testimonial.php:253
+msgid "5 Seconds"
+msgstr ""
+
+#: vc-modules/title.php:131
+msgid "50%"
+msgstr ""
+
+#: vc-modules/law-grid.php:21 vc-modules/law-slider.php:22
+#: vc-modules/post.php:22 vc-modules/team-grid.php:21 vc-modules/team.php:22
+#: vc-modules/testimonial.php:21
+msgid "6 col"
+msgstr ""
+
+#: vc-modules/title.php:130
+msgid "60%"
+msgstr ""
+
+#: vc-modules/title.php:129
+msgid "65%"
+msgstr ""
+
+#: vc-modules/title.php:128
+msgid "70%"
+msgstr ""
+
+#: vc-modules/title.php:127
+msgid "80%"
+msgstr ""
+
+#: vc-modules/title.php:126
+msgid "90%"
+msgstr ""
+
+#: vc-modules/views/post-style-3.php:60
+msgid "<span> By </span>"
+msgstr ""
+
+#: vc-modules/about.php:16
+msgid "About <span class=\"miako-primary-color\">Miako </span>"
+msgstr ""
+
+#: widgets/social-widget.php:78
+msgid "About Company"
+msgstr ""
+
+#: post-meta.php:283
+msgid "Add New Skill"
+msgstr ""
+
+#: post-meta.php:242 vc-modules/contact-info.php:57
+#: widgets/address-widget.php:79
+msgid "Address"
+msgstr ""
+
+#: widgets/address-widget.php:13
+msgid "Address Widget"
+msgstr ""
+
+#: vc-modules/counter.php:66 vc-modules/text-with-button.php:28
+#: vc-modules/title.php:110
+msgid "Alignment"
+msgstr ""
+
+#: vc-modules/law-grid.php:30 vc-modules/team-grid.php:30
+#: vc-modules/testimonial.php:36
+msgid "All Categories"
+msgstr ""
+
+#: vc-modules/law-grid.php:113 vc-modules/law-slider.php:84
+#: vc-modules/post.php:86 vc-modules/team-grid.php:88 vc-modules/team.php:159
+#: vc-modules/testimonial.php:123
+msgid "Ascending"
+msgstr ""
+
+#: vc-modules/law-slider.php:184 vc-modules/post.php:215
+#: vc-modules/team.php:286 vc-modules/testimonial.php:220
+msgid "Autoplay"
+msgstr ""
+
+#: vc-modules/law-slider.php:214 vc-modules/post.php:245
+#: vc-modules/team.php:324 vc-modules/testimonial.php:250
+msgid "Autoplay Interval"
+msgstr ""
+
+#: vc-modules/law-slider.php:234 vc-modules/post.php:265
+#: vc-modules/team.php:348 vc-modules/testimonial.php:270
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: post-meta.php:148 vc-modules/law-grid.php:72 vc-modules/pricing-box.php:39
+msgid "Background Color"
+msgstr ""
+
+#: vc-modules/info-text.php:209
+msgid "Background color"
+msgstr ""
+
+#: vc-modules/law-grid.php:84
+msgid "Background Hover Color"
+msgstr ""
+
+#: post-meta.php:147
+msgid "Background Image"
+msgstr ""
+
+#: post-meta.php:123
+msgid "Banner"
+msgstr ""
+
+#: post-meta.php:158
+msgid "Banner Background Color"
+msgstr ""
+
+#: post-meta.php:153
+msgid "Banner Background Image"
+msgstr ""
+
+#: post-meta.php:143
+msgid "Banner Background Type"
+msgstr ""
+
+#: vc-modules/progress-bar.php:52
+msgid "Bar Color"
+msgstr ""
+
+#: vc-modules/info-text.php:185
+msgid "Bar color"
+msgstr ""
+
+#: vc-modules/text-with-button.php:68
+msgid "Bold"
+msgstr ""
+
+#: vc-modules/law-slider.php:118
+msgid "Both Icon & Image"
+msgstr ""
+
+#: vc-modules/team.php:61
+msgid "Box Background Color"
+msgstr ""
+
+#: vc-modules/team.php:72
+msgid "Box Background Hover Color"
+msgstr ""
+
+#: post-meta.php:133
+msgid "Breadcrumb"
+msgstr ""
+
+#: vc-modules/text-with-button.php:102
+msgid "Button Style"
+msgstr ""
+
+#: vc-modules/about.php:101 vc-modules/info-text.php:355
+#: vc-modules/law-grid.php:149 vc-modules/miako-cta.php:101
+#: vc-modules/pricing-box.php:94 vc-modules/text-with-button.php:113
+msgid "Button Text"
+msgstr ""
+
+#: vc-modules/about.php:113 vc-modules/info-text.php:367
+#: vc-modules/law-grid.php:161 vc-modules/miako-cta.php:113
+#: vc-modules/pricing-box.php:102 vc-modules/text-with-button.php:121
+#: widgets/social-widget.php:111
+msgid "Button URL"
+msgstr ""
+
+#: vc-modules/miako-cta.php:17
+msgid "Buy the lawyer wordpress theme and grow with us"
+msgstr ""
+
+#: vc-modules/law-grid.php:64 vc-modules/law-slider.php:58
+#: vc-modules/post.php:60 vc-modules/team-grid.php:52 vc-modules/team.php:133
+#: vc-modules/testimonial.php:97
+msgid "Categories"
+msgstr ""
+
+#: vc-modules/counter.php:69 vc-modules/text-with-button.php:31
+#: vc-modules/title.php:113
+msgid "Center"
+msgstr ""
+
+#: vc-modules/law-slider.php:120
+msgid ""
+"Choose Fontawesome Icon or Image Icon in the Slider. Default: Fontawesome "
+"Icon"
+msgstr ""
+
+#: vc-modules/views/post-style-1.php:61
+msgid "Comments"
+msgstr ""
+
+#: vc-modules/about.php:81 vc-modules/award-box.php:106
+#: vc-modules/info-text.php:292 vc-modules/text-with-button.php:75
+#: vc-modules/text-with-video.php:77
+msgid "Content"
+msgstr ""
+
+#: vc-modules/text-with-button.php:83
+msgid "Content color"
+msgstr ""
+
+#: vc-modules/award-box.php:114 vc-modules/info-text.php:300
+msgid "Content Font Size"
+msgstr ""
+
+#: vc-modules/award-box.php:116 vc-modules/info-text.php:302
+msgid ""
+"Content font size in px eg. 15. If not defined, default body font size will "
+"be used"
+msgstr ""
+
+#: vc-modules/law-slider.php:100 vc-modules/testimonial.php:79
+msgid "Content Limit"
+msgstr ""
+
+#: vc-modules/award-box.php:124 vc-modules/info-text.php:310
+msgid ""
+"Content maximum width in px eg 360. Keep this field empty if you want full "
+"width"
+msgstr ""
+
+#: post-meta.php:104
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: post-meta.php:85
+msgid "Content Padding Top"
+msgstr ""
+
+#: vc-modules/award-box.php:122 vc-modules/info-text.php:308
+msgid "Content Width"
+msgstr ""
+
+#: widgets/address-widget.php:60
+msgid "Corporate Office"
+msgstr ""
+
+#: vc-modules/counter.php:42
+msgid "Counter color"
+msgstr ""
+
+#: vc-modules/counter.php:57
+msgid "Counter Font Size"
+msgstr ""
+
+#: vc-modules/counter.php:78
+msgid "Counter Number"
+msgstr ""
+
+#: vc-modules/counter.php:96
+msgid "Counter Speed"
+msgstr ""
+
+#: vc-modules/counter.php:105
+msgid "Counter Steps"
+msgstr ""
+
+#: vc-modules/counter.php:108
+msgid "Counter steps eg. 10"
+msgstr ""
+
+#: vc-modules/counter.php:122
+msgid "Counter Text Size"
+msgstr ""
+
+#: vc-modules/counter.php:124
+msgid "Counter Text size in px eg. 20"
+msgstr ""
+
+#: vc-modules/about.php:123 vc-modules/award-box.php:128
+#: vc-modules/contact-info.php:87 vc-modules/counter.php:129
+#: vc-modules/info-text.php:376 vc-modules/miako-cta.php:123
+#: vc-modules/open-hour.php:62 vc-modules/pricing-box.php:117
+#: vc-modules/progress-bar.php:60 vc-modules/text-with-button.php:127
+#: vc-modules/text-with-video.php:84 vc-modules/title.php:140
+msgid "Css"
+msgstr ""
+
+#: vc-modules/award-box.php:29 vc-modules/info-text.php:52
+msgid "Custom Image"
+msgstr ""
+
+#: vc-modules/text-with-button.php:106
+msgid "Dark Background"
+msgstr ""
+
+#: vc-modules/law-grid.php:126 vc-modules/law-slider.php:72
+#: vc-modules/post.php:74 vc-modules/team-grid.php:101 vc-modules/team.php:147
+#: vc-modules/testimonial.php:111
+msgid "Date"
+msgstr ""
+
+#: post-meta.php:18 post-meta.php:26 post-meta.php:43 post-meta.php:53
+#: post-meta.php:63 post-meta.php:74 post-meta.php:88 post-meta.php:107
+#: post-meta.php:126 post-meta.php:136 post-meta.php:146
+msgid "Default"
+msgstr ""
+
+#: vc-modules/law-grid.php:112 vc-modules/law-slider.php:83
+#: vc-modules/post.php:85 vc-modules/team-grid.php:87 vc-modules/team.php:158
+#: vc-modules/testimonial.php:122
+msgid "Descending"
+msgstr ""
+
+#: vc-modules/contact-info.php:35 widgets/social-widget.php:95
+msgid "Description"
+msgstr ""
+
+#: vc-modules/contact-info.php:49
+msgid "Description color"
+msgstr ""
+
+#: vc-modules/about.php:125 vc-modules/award-box.php:130
+#: vc-modules/contact-info.php:89 vc-modules/counter.php:131
+#: vc-modules/info-text.php:378 vc-modules/miako-cta.php:125
+#: vc-modules/open-hour.php:64 vc-modules/pricing-box.php:119
+#: vc-modules/progress-bar.php:62 vc-modules/text-with-button.php:129
+#: vc-modules/text-with-video.php:86 vc-modules/title.php:142
+msgid "Design options"
+msgstr ""
+
+#: post-meta.php:238 post-meta.php:307
+msgid "Designation"
+msgstr ""
+
+#: vc-modules/testimonial.php:64
+msgid "Designation color"
+msgstr ""
+
+#: vc-modules/team-grid.php:60
+msgid "Designation Display"
+msgstr ""
+
+#: vc-modules/team.php:122
+msgid "Designation display"
+msgstr ""
+
+#: vc-modules/pricing-box.php:17 vc-modules/views/law-grid.php:72
+#: vc-modules/views/law-grid7.php:70 vc-modules/views/team-6.php:56
+msgid "Details"
+msgstr "Detalhes"
+
+#: vc-modules/law-slider.php:188 vc-modules/law-slider.php:201
+#: vc-modules/law-slider.php:252 vc-modules/post.php:219
+#: vc-modules/post.php:232 vc-modules/post.php:283
+msgid "Disable"
+msgstr ""
+
+#: post-meta.php:45 post-meta.php:55 post-meta.php:128 post-meta.php:138
+#: vc-modules/info-text.php:117 vc-modules/info-text.php:344
+#: vc-modules/law-grid.php:138 vc-modules/law-slider.php:174
+#: vc-modules/post.php:97 vc-modules/post.php:201 vc-modules/team-grid.php:64
+#: vc-modules/team-grid.php:122 vc-modules/team.php:88 vc-modules/team.php:274
+#: vc-modules/team.php:290 vc-modules/team.php:307 vc-modules/team.php:370
+#: vc-modules/testimonial.php:212 vc-modules/testimonial.php:224
+#: vc-modules/testimonial.php:237 vc-modules/testimonial.php:288
+#: vc-modules/text-with-button.php:95
+msgid "Disabled"
+msgstr ""
+
+#: vc-modules/about.php:90 vc-modules/info-text.php:340
+msgid "Display Button"
+msgstr ""
+
+#: widgets/rt-recent-post-widget.php:99
+msgid "Display post date?"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:11
+msgid "Display the opening hours"
+msgstr ""
+
+#: post-meta.php:293
+msgid "eg. 75"
+msgstr ""
+
+#: post-meta.php:288
+msgid "eg. Investment"
+msgstr ""
+
+#: vc-modules/pricing-box.php:79
+msgid "eg. month or year. Keep empty if you don't want to show unit"
+msgstr ""
+
+#: post-meta.php:254 vc-modules/contact-info.php:73
+#: widgets/address-widget.php:87
+msgid "Email"
+msgstr ""
+
+#: vc-modules/law-slider.php:187 vc-modules/law-slider.php:200
+#: vc-modules/law-slider.php:251 vc-modules/post.php:218
+#: vc-modules/post.php:231 vc-modules/post.php:282
+msgid "Enable"
+msgstr ""
+
+#: vc-modules/law-slider.php:190 vc-modules/post.php:221
+#: vc-modules/team.php:292
+msgid "Enable or disable autoplay. Default: Enable"
+msgstr ""
+
+#: vc-modules/law-slider.php:177 vc-modules/post.php:204
+msgid "Enable or disable navigation dots. Default: Disable"
+msgstr ""
+
+#: post-meta.php:44 post-meta.php:54 post-meta.php:127 post-meta.php:137
+#: vc-modules/info-text.php:118 vc-modules/info-text.php:343
+#: vc-modules/law-grid.php:137 vc-modules/law-slider.php:175
+#: vc-modules/post.php:96 vc-modules/post.php:202 vc-modules/team-grid.php:63
+#: vc-modules/team-grid.php:121 vc-modules/team.php:87 vc-modules/team.php:273
+#: vc-modules/team.php:289 vc-modules/team.php:306 vc-modules/team.php:369
+#: vc-modules/testimonial.php:211 vc-modules/testimonial.php:223
+#: vc-modules/testimonial.php:236 vc-modules/testimonial.php:287
+#: vc-modules/text-with-button.php:94
+msgid "Enabled"
+msgstr ""
+
+#: vc-modules/testimonial.php:226
+msgid "Enabled or disabled autoplay. Default: Enabled"
+msgstr ""
+
+#: vc-modules/text-with-video.php:71
+#, php-format
+msgid ""
+"Enter link to video (Note: read more about available formats at WordPress <a "
+"href=\"%s\" target=\"_blank\">codex page</a>)."
+msgstr ""
+
+#: post-meta.php:170
+msgid "Facebook"
+msgstr ""
+
+#: widgets/social-widget.php:99
+msgid "Facebook URL"
+msgstr ""
+
+#: post-meta.php:246 vc-modules/contact-info.php:81
+#: widgets/address-widget.php:91
+msgid "Fax"
+msgstr ""
+
+#: vc-modules/law-slider.php:16
+msgid "Featured Service"
+msgstr ""
+
+#: vc-modules/pricing-box.php:85
+msgid "Features"
+msgstr ""
+
+#: vc-modules/award-box.php:27 vc-modules/info-text.php:50
+msgid "FlatIcon"
+msgstr ""
+
+#: vc-modules/award-box.php:34 vc-modules/info-text.php:57
+msgid "Flaticon"
+msgstr ""
+
+#: vc-modules/title.php:64 vc-modules/title.php:81
+msgid "Font Size 14"
+msgstr ""
+
+#: vc-modules/title.php:63 vc-modules/title.php:80
+msgid "Font Size 16"
+msgstr ""
+
+#: vc-modules/title.php:62 vc-modules/title.php:79
+msgid "Font Size 18"
+msgstr ""
+
+#: vc-modules/title.php:61 vc-modules/title.php:78
+msgid "Font Size 20"
+msgstr ""
+
+#: vc-modules/title.php:60 vc-modules/title.php:77
+msgid "Font Size 24"
+msgstr ""
+
+#: vc-modules/title.php:59 vc-modules/title.php:74
+msgid "Font Size 28"
+msgstr ""
+
+#: vc-modules/title.php:58 vc-modules/title.php:76
+msgid "Font Size 30"
+msgstr ""
+
+#: vc-modules/title.php:57 vc-modules/title.php:75
+msgid "Font Size 32"
+msgstr ""
+
+#: vc-modules/award-box.php:28 vc-modules/info-text.php:51
+msgid "FontAwesome"
+msgstr ""
+
+#: vc-modules/award-box.php:49 vc-modules/info-text.php:72
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: post-meta.php:320 vc-modules/law-slider.php:116
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:21
+msgid "Friday"
+msgstr "Sexta"
+
+#: post-meta.php:27
+msgid "Full Width"
+msgstr ""
+
+#: vc-modules/miako-cta.php:19
+msgid "Get Free Consultation"
+msgstr ""
+
+#: post-meta.php:218
+msgid "Github"
+msgstr ""
+
+#: post-meta.php:188
+msgid "Google Plus"
+msgstr ""
+
+#: widgets/social-widget.php:107
+msgid "Google Plus URL"
+msgstr ""
+
+#: vc-modules/counter.php:16
+msgid "Happy Client"
+msgstr ""
+
+#: post-meta.php:71
+msgid "Header Layout"
+msgstr ""
+
+#: demo-importer.php:27
+msgid "Home 1"
+msgstr ""
+
+#: demo-importer.php:57
+msgid "Home 1 Onepage"
+msgstr ""
+
+#: demo-importer.php:32
+msgid "Home 2"
+msgstr ""
+
+#: demo-importer.php:62
+msgid "Home 2 Onepage"
+msgstr ""
+
+#: demo-importer.php:37
+msgid "Home 3"
+msgstr ""
+
+#: demo-importer.php:67
+msgid "Home 3 Onepage"
+msgstr ""
+
+#: demo-importer.php:42
+msgid "Home 4"
+msgstr ""
+
+#: demo-importer.php:72
+msgid "Home 4 Onepage"
+msgstr ""
+
+#: demo-importer.php:47
+msgid "Home 5"
+msgstr ""
+
+#: demo-importer.php:77
+msgid "Home 5 Onepage"
+msgstr ""
+
+#: demo-importer.php:52
+msgid "Home 6"
+msgstr ""
+
+#: demo-importer.php:82
+msgid "Home 6 Onepage"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://radiustheme.com"
+msgstr ""
+
+#: vc-modules/info-text.php:16
+msgid "I am title"
+msgstr ""
+
+#: vc-modules/info-text.php:145 vc-modules/info-text.php:161
+#: vc-modules/info-text.php:173
+msgid "Icon Background color"
+msgstr ""
+
+#: vc-modules/info-text.php:114
+msgid "Icon border"
+msgstr ""
+
+#: vc-modules/award-box.php:76 vc-modules/info-text.php:129
+msgid "Icon color"
+msgstr ""
+
+#: vc-modules/award-box.php:97 vc-modules/info-text.php:232
+msgid "Icon padding"
+msgstr ""
+
+#: vc-modules/award-box.php:99 vc-modules/info-text.php:234
+msgid "Icon padding in px eg. 15. Doesn't work on custom image"
+msgstr ""
+
+#: vc-modules/award-box.php:88 vc-modules/info-text.php:220
+msgid "Icon size"
+msgstr ""
+
+#: vc-modules/counter.php:59
+msgid "Icon size in px eg. 20"
+msgstr ""
+
+#: vc-modules/award-box.php:90 vc-modules/info-text.php:222
+msgid "Icon size in px eg. 30"
+msgstr ""
+
+#: vc-modules/info-text.php:99
+msgid "Icon style"
+msgstr ""
+
+#: vc-modules/award-box.php:24 vc-modules/info-text.php:47
+msgid "Icon Type"
+msgstr ""
+
+#: vc-modules/law-grid.php:125 vc-modules/law-slider.php:71
+#: vc-modules/post.php:73 vc-modules/team-grid.php:100 vc-modules/team.php:146
+#: vc-modules/testimonial.php:110
+msgid "ID"
+msgstr ""
+
+#: post-meta.php:155 post-meta.php:160
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: vc-modules/miako-cta.php:16
+msgid "If you have any  problem in your life ... We are available"
+msgstr ""
+
+#: vc-modules/counter.php:90
+msgid "If you want to set a maximum number. eg. 5780"
+msgstr ""
+
+#: vc-modules/about.php:50
+msgid "Image"
+msgstr ""
+
+#: vc-modules/about.php:39
+msgid "Image Alignment"
+msgstr ""
+
+#: post-meta.php:325 vc-modules/law-slider.php:117
+msgid "Image Icon"
+msgstr ""
+
+#: vc-modules/pricing-box.php:70
+msgid "Including currency sign eg. $59"
+msgstr ""
+
+#: post-meta.php:212
+msgid "Instagram"
+msgstr ""
+
+#: widgets/social-widget.php:119
+msgid "Instagram URL"
+msgstr ""
+
+#: demo-importer.php:19
+msgid "Install Demo Contents"
+msgstr ""
+
+#: vc-modules/law-grid.php:55 vc-modules/team-grid.php:109
+msgid "Items Per Page"
+msgstr ""
+
+#: vc-modules/info-text.php:278
+msgid "keep this field empty if you don't want the title linkable"
+msgstr ""
+
+#: widgets/rt-recent-post-widget.php:83
+msgid "Latest Post"
+msgstr ""
+
+#: post-types.php:22
+msgid "Law"
+msgstr ""
+
+#: post-types.php:38
+msgid "Law Categories"
+msgstr ""
+
+#: post-types.php:37
+msgid "Law Category"
+msgstr ""
+
+#: post-meta.php:317
+msgid "Law Info"
+msgstr ""
+
+#: post-types.php:23
+msgid "Law Service"
+msgstr "Área de Atuação"
+
+#: post-meta.php:23 vc-modules/about.php:28 vc-modules/info-text.php:28
+#: vc-modules/law-grid.php:39 vc-modules/law-slider.php:46
+#: vc-modules/pricing-box.php:28 vc-modules/team-grid.php:40
+#: vc-modules/team.php:46 vc-modules/testimonial.php:46
+#: vc-modules/text-with-video.php:28
+msgid "Layout"
+msgstr ""
+
+#: post-meta.php:64 post-meta.php:75 vc-modules/info-text.php:31
+#: vc-modules/law-slider.php:49 vc-modules/team.php:49
+#: vc-modules/testimonial.php:49
+msgid "Layout 1"
+msgstr ""
+
+#: vc-modules/info-text.php:40
+msgid "Layout 10 - Dark Background"
+msgstr ""
+
+#: post-meta.php:65 post-meta.php:76 vc-modules/info-text.php:32
+#: vc-modules/law-slider.php:50 vc-modules/team.php:50
+#: vc-modules/testimonial.php:50
+msgid "Layout 2"
+msgstr ""
+
+#: post-meta.php:66 post-meta.php:77 vc-modules/info-text.php:33
+#: vc-modules/law-slider.php:51 vc-modules/team.php:51
+#: vc-modules/testimonial.php:51
+msgid "Layout 3"
+msgstr ""
+
+#: post-meta.php:78 vc-modules/info-text.php:34 vc-modules/team.php:52
+msgid "Layout 4"
+msgstr ""
+
+#: post-meta.php:79 vc-modules/info-text.php:35 vc-modules/team.php:53
+msgid "Layout 5"
+msgstr ""
+
+#: post-meta.php:80 vc-modules/info-text.php:36 vc-modules/team.php:54
+msgid "Layout 6"
+msgstr ""
+
+#: vc-modules/info-text.php:37 vc-modules/team.php:55
+msgid "Layout 7"
+msgstr ""
+
+#: vc-modules/info-text.php:38
+msgid "Layout 8"
+msgstr ""
+
+#: vc-modules/info-text.php:39
+msgid "Layout 9"
+msgstr ""
+
+#: post-meta.php:20
+msgid "Layout Settings"
+msgstr ""
+
+#: vc-modules/counter.php:70 vc-modules/text-with-button.php:32
+#: vc-modules/title.php:114
+msgid "Left"
+msgstr ""
+
+#: post-meta.php:28
+msgid "Left Sidebar"
+msgstr ""
+
+#: vc-modules/text-with-button.php:67
+msgid "Light"
+msgstr ""
+
+#: vc-modules/text-with-button.php:105
+msgid "Light Background"
+msgstr ""
+
+#: post-meta.php:182
+msgid "Linkedin"
+msgstr ""
+
+#: vc-modules/law-slider.php:248 vc-modules/post.php:279
+#: vc-modules/team.php:366 vc-modules/testimonial.php:284
+msgid "Loop"
+msgstr ""
+
+#: vc-modules/law-slider.php:254 vc-modules/post.php:285
+#: vc-modules/team.php:372
+msgid "Loop to first item. Default: Enable"
+msgstr ""
+
+#: vc-modules/testimonial.php:290
+msgid "Loop to first item. Default: Enabled"
+msgstr ""
+
+#: post-meta.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: vc-modules/text-with-video.php:54
+msgid "Main Title"
+msgstr ""
+
+#: vc-modules/text-with-video.php:61
+msgid "Main Title Color"
+msgstr ""
+
+#: vc-modules/text-with-button.php:17
+msgid "Make An Appointment"
+msgstr ""
+
+#: vc-modules/law-grid.php:103 vc-modules/post.php:138
+#: vc-modules/team-grid.php:78 vc-modules/team.php:173
+msgid "Maximum number of words"
+msgstr ""
+
+#: vc-modules/pricing-box.php:110
+msgid "Maximum width"
+msgstr ""
+
+#: vc-modules/pricing-box.php:113
+msgid "Maximum width in px. Keep empty if you want full width. eg. 300"
+msgstr ""
+
+#: vc-modules/counter.php:87
+msgid "Maximun Width"
+msgstr ""
+
+#: vc-modules/law-grid.php:127 vc-modules/law-slider.php:73
+#: vc-modules/post.php:75 vc-modules/team-grid.php:102 vc-modules/team.php:148
+#: vc-modules/testimonial.php:112
+msgid "Menu Order"
+msgstr ""
+
+#: vc-modules/inc/abstruct.php:54
+msgid "Miako"
+msgstr ""
+
+#: widgets/social-widget.php:16
+msgid "Miako  : (For Footer) Social Link widget with Description"
+msgstr ""
+
+#. Base ID
+#: widgets/address-widget.php:12
+msgid "Miako  : Address (for footer)"
+msgstr ""
+
+#: widgets/rt-recent-post-widget.php:13
+msgid "Miako  : Recent Posts"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:14
+msgid "Miako : Opening Hours"
+msgstr ""
+
+#: vc-modules/pricing-box.php:13
+msgid "Miako : Pricing Box"
+msgstr ""
+
+#. Name of the plugin
+msgid "Miako Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "Miako Core Plugin for Miako Theme"
+msgstr ""
+
+#: vc-modules/about.php:13
+msgid "Miako: About"
+msgstr ""
+
+#: vc-modules/award-box.php:13
+msgid "Miako: Award Box"
+msgstr ""
+
+#: vc-modules/miako-cta.php:13
+msgid "MIAKO: Call to Action"
+msgstr ""
+
+#: vc-modules/contact-info.php:13
+msgid "Miako: Contact Info"
+msgstr ""
+
+#: vc-modules/counter.php:13
+msgid "Miako: Counter"
+msgstr ""
+
+#: vc-modules/info-text.php:13
+msgid "Miako: Info Text"
+msgstr ""
+
+#: vc-modules/law-grid.php:13
+msgid "Miako: Law Grid"
+msgstr ""
+
+#: vc-modules/law-slider.php:13
+msgid "Miako: Law Sliders"
+msgstr ""
+
+#: vc-modules/open-hour.php:13
+msgid "Miako: Opening Hour"
+msgstr ""
+
+#: vc-modules/post.php:13
+msgid "Miako: Post Slider"
+msgstr ""
+
+#: vc-modules/progress-bar.php:13
+msgid "Miako: Progress Bar"
+msgstr ""
+
+#: vc-modules/title.php:13
+msgid "MIAKO: Section Title"
+msgstr ""
+
+#: vc-modules/team-grid.php:13
+msgid "Miako: Team Grid"
+msgstr ""
+
+#: vc-modules/team.php:13
+msgid "Miako: Team Slider"
+msgstr ""
+
+#: vc-modules/testimonial.php:13
+msgid "Miako: Testimonial"
+msgstr ""
+
+#: vc-modules/text-with-button.php:13
+msgid "Miako: Text with Button"
+msgstr ""
+
+#: vc-modules/text-with-video.php:13
+msgid "Miako: Text with Video"
+msgstr ""
+
+#: vc-modules/text-with-button.php:77
+msgid ""
+"Mimply dummy text of the printing and typesetting industry. Lorem Ipsum has "
+"been the industry's standard dummy text ever since the 1500s, when an "
+"unknown printer took a galley of type and scrambled it to make a type "
+"specimen book. It has survived not only five cent into electronining "
+"essentially unchanged."
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:17
+msgid "Monday"
+msgstr "Segunda"
+
+#: vc-modules/info-text.php:197
+msgid "Mouseover color"
+msgstr ""
+
+#: vc-modules/law-grid.php:124 vc-modules/law-slider.php:70
+#: vc-modules/post.php:72 vc-modules/team-grid.php:99 vc-modules/team.php:145
+#: vc-modules/testimonial.php:109
+msgid "Name"
+msgstr ""
+
+#: vc-modules/team.php:254 vc-modules/testimonial.php:196
+msgid "Navigation Arrow"
+msgstr ""
+
+#: vc-modules/law-slider.php:171 vc-modules/post.php:198
+#: vc-modules/team.php:270 vc-modules/testimonial.php:208
+msgid "Navigation Dots"
+msgstr ""
+
+#: vc-modules/text-with-button.php:16
+msgid "Need  Help?"
+msgstr ""
+
+#: vc-modules/views/law-grid.php:91 vc-modules/views/law-grid1.php:84
+#: vc-modules/views/law-grid2.php:107 vc-modules/views/law-grid3.php:83
+#: vc-modules/views/law-grid4.php:85 vc-modules/views/law-grid5.php:85
+#: vc-modules/views/law-grid6.php:89 vc-modules/views/law-grid7.php:88
+#: vc-modules/views/law-slider-1.php:72 vc-modules/views/law-slider-2.php:56
+#: vc-modules/views/law-slider-3.php:57
+msgid "No Law Service Found"
+msgstr ""
+
+#: vc-modules/views/post-style-1.php:68 vc-modules/views/post-style-2.php:65
+#: vc-modules/views/post-style-3.php:80 vc-modules/views/post-style-4.php:57
+msgid "No Post Found"
+msgstr ""
+
+#: vc-modules/views/team-1.php:82 vc-modules/views/team-2.php:74
+#: vc-modules/views/team-3.php:74 vc-modules/views/team-4.php:60
+#: vc-modules/views/team-5.php:72 vc-modules/views/team-6.php:80
+#: vc-modules/views/team-7.php:83 vc-modules/views/team-grid1.php:80
+#: vc-modules/views/team-grid2.php:99 vc-modules/views/team-grid3.php:93
+msgid "No Team Found"
+msgstr ""
+
+#: vc-modules/views/testimonial-slider-1.php:56
+#: vc-modules/views/testimonial-slider-2.php:58
+#: vc-modules/views/testimonial-slider-3.php:58
+msgid "No Testimonial Found"
+msgstr ""
+
+#: vc-modules/law-grid.php:123 vc-modules/law-slider.php:69
+#: vc-modules/post.php:71 vc-modules/team-grid.php:98 vc-modules/team.php:144
+#: vc-modules/testimonial.php:108
+msgid "None"
+msgstr ""
+
+#: vc-modules/law-grid.php:173 vc-modules/law-slider.php:126
+#: vc-modules/post.php:153 vc-modules/team-grid.php:133 vc-modules/team.php:188
+#: vc-modules/testimonial.php:130
+msgid "Number of columns ( Desktops > 1199px )"
+msgstr ""
+
+#: vc-modules/law-grid.php:186 vc-modules/law-slider.php:135
+#: vc-modules/post.php:162 vc-modules/team-grid.php:142 vc-modules/team.php:201
+#: vc-modules/testimonial.php:143
+msgid "Number of columns ( Desktops > 991px )"
+msgstr ""
+
+#: vc-modules/law-grid.php:212 vc-modules/law-slider.php:153
+#: vc-modules/post.php:180 vc-modules/team-grid.php:160 vc-modules/team.php:227
+#: vc-modules/testimonial.php:169
+msgid "Number of columns ( Phones < 768px )"
+msgstr ""
+
+#: vc-modules/law-slider.php:162 vc-modules/post.php:189
+#: vc-modules/team.php:240 vc-modules/testimonial.php:182
+msgid "Number of columns ( Small Phones < 480px )"
+msgstr ""
+
+#: vc-modules/law-grid.php:199 vc-modules/law-slider.php:144
+#: vc-modules/post.php:171 vc-modules/team-grid.php:151 vc-modules/team.php:214
+#: vc-modules/testimonial.php:156
+msgid "Number of columns ( Tablets > 767px )"
+msgstr ""
+
+#: widgets/rt-recent-post-widget.php:95
+msgid "Number of posts to show"
+msgstr ""
+
+#: vc-modules/counter.php:81
+msgid "Number to count eg. 5780"
+msgstr ""
+
+#: vc-modules/contact-info.php:16
+msgid "OFFICE ADDRESS"
+msgstr ""
+
+#: vc-modules/pricing-box.php:88
+msgid ""
+"One line per feature. Put BLANK keyword if you want blank line. eg.<br/>"
+"Investment Plan</br>Education Loan</br>Tax Planning</br>BLANK"
+msgstr ""
+
+#: vc-modules/open-hour.php:43
+msgid "Opening Hour like \"10.00AM - 8.00PM\""
+msgstr ""
+
+#: vc-modules/law-grid.php:120 vc-modules/law-slider.php:66
+#: vc-modules/post.php:68 vc-modules/team-grid.php:95 vc-modules/team.php:141
+#: vc-modules/testimonial.php:105
+msgid "Order By"
+msgstr ""
+
+#: vc-modules/text-with-video.php:17
+msgid "Our Company History"
+msgstr ""
+
+#: vc-modules/team.php:16
+msgid "Our Expert Attorney"
+msgstr ""
+
+#: vc-modules/post.php:16
+msgid "Our Latest News"
+msgstr ""
+
+#: vc-modules/text-with-button.php:91
+msgid "Overlay Action"
+msgstr ""
+
+#: vc-modules/law-grid.php:134 vc-modules/team-grid.php:118
+msgid "Pagination Display"
+msgstr ""
+
+#: vc-modules/contact-info.php:65
+msgid "Phone"
+msgstr ""
+
+#: post-meta.php:250 vc-modules/miako-cta.php:89 widgets/address-widget.php:83
+msgid "Phone Number"
+msgstr ""
+
+#: post-meta.php:206
+msgid "Pinterest"
+msgstr ""
+
+#: widgets/social-widget.php:115
+msgid "Pinterest URL"
+msgstr ""
+
+#: vc-modules/views/open-hour.php:49
+msgid "Please insert some data"
+msgstr ""
+
+#: post-meta.php:322
+msgid ""
+"Please write the Fontawesome Icon Class name here. Like : \" fa-pencil-"
+"square-o \""
+msgstr ""
+
+#: vc-modules/law-grid.php:109 vc-modules/law-slider.php:80
+#: vc-modules/post.php:82 vc-modules/team-grid.php:84 vc-modules/team.php:155
+#: vc-modules/testimonial.php:119
+msgid "Post Display Order"
+msgstr ""
+
+#: vc-modules/pricing-box.php:67
+msgid "Price"
+msgstr ""
+
+#: post-meta.php:269
+msgid "Put your social links here"
+msgstr ""
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr ""
+
+#: vc-modules/views/law-grid2.php:89 vc-modules/views/law-grid3.php:73
+msgid "READ MORE"
+msgstr "SAIBA MAIS"
+
+#: vc-modules/about.php:17 vc-modules/info-text.php:17
+#: vc-modules/views/law-slider-1.php:64
+msgid "Read More"
+msgstr "SAIBA MAIS"
+
+#: widgets/rt-recent-post-widget.php:23
+msgid "Recent Posts"
+msgstr ""
+
+#: vc-modules/counter.php:71 vc-modules/text-with-button.php:33
+#: vc-modules/title.php:115
+msgid "Right"
+msgstr ""
+
+#: post-meta.php:29
+msgid "Right Sidebar"
+msgstr ""
+
+#: vc-modules/text-with-video.php:79
+msgid ""
+"Rimply dummy text of the printing and typesetting istrykorem Ipsum hasbeen "
+"daand scrambled.make a type specimen book. Lorem ipsum dolor sit ameen uer "
+"adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dol agna "
+"aliquam erat volutpat. Ut wisi enim ad minim veniamnostrud exerci "
+"ullamcorper suscipit ut aliquip exea.<br>scrambled.make a type specimen book."
+" Lorem ipsum dolor sit ameen uer adipiscing elit, sed diam nonummy nibh "
+"euismod"
+msgstr ""
+
+#: vc-modules/info-text.php:102
+msgid "Rounded"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:22
+msgid "Saturday"
+msgstr "Sábado"
+
+#: vc-modules/post.php:108 vc-modules/team.php:99
+msgid "Section Title"
+msgstr ""
+
+#: vc-modules/post.php:119 vc-modules/team.php:110
+msgid "Section Title Color"
+msgstr ""
+
+#: vc-modules/post.php:93 vc-modules/team.php:84
+msgid "Section Title Display"
+msgstr ""
+
+#: vc-modules/title.php:122
+msgid "Section Width"
+msgstr ""
+
+#: vc-modules/law-slider.php:227 vc-modules/post.php:258
+#: vc-modules/team.php:337 vc-modules/testimonial.php:263
+msgid ""
+"Set any value for example 5 seconds to play it in every 5 seconds. Default: "
+"5 Seconds"
+msgstr ""
+
+#: vc-modules/text-with-video.php:16
+msgid "Since 1996"
+msgstr ""
+
+#: post-meta.php:286
+msgid "Skill Name"
+msgstr ""
+
+#: post-meta.php:291
+msgid "Skill Percentage (%)"
+msgstr ""
+
+#: post-meta.php:194
+msgid "Skype"
+msgstr ""
+
+#: vc-modules/law-slider.php:241 vc-modules/post.php:272
+#: vc-modules/team.php:355 vc-modules/testimonial.php:277
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr ""
+
+#: vc-modules/law-slider.php:178 vc-modules/law-slider.php:191
+#: vc-modules/law-slider.php:208 vc-modules/law-slider.php:228
+#: vc-modules/law-slider.php:242 vc-modules/law-slider.php:255
+#: vc-modules/post.php:205 vc-modules/post.php:222 vc-modules/post.php:239
+#: vc-modules/post.php:259 vc-modules/post.php:273 vc-modules/post.php:286
+#: vc-modules/team.php:260 vc-modules/team.php:276 vc-modules/team.php:293
+#: vc-modules/team.php:314 vc-modules/team.php:338 vc-modules/team.php:356
+#: vc-modules/team.php:373 vc-modules/testimonial.php:202
+#: vc-modules/testimonial.php:214 vc-modules/testimonial.php:227
+#: vc-modules/testimonial.php:244 vc-modules/testimonial.php:264
+#: vc-modules/testimonial.php:278 vc-modules/testimonial.php:291
+msgid "Slider Options"
+msgstr ""
+
+#: vc-modules/text-with-video.php:39
+msgid "Small Title"
+msgstr ""
+
+#: vc-modules/text-with-video.php:46
+msgid "Small Title Color"
+msgstr ""
+
+#: widgets/social-widget.php:19
+msgid "Social Widget"
+msgstr ""
+
+#: post-meta.php:267
+msgid "Socials"
+msgstr ""
+
+#: vc-modules/info-text.php:328
+msgid "Spacing After Title"
+msgstr ""
+
+#: vc-modules/info-text.php:316
+msgid "Spacing Before Title"
+msgstr ""
+
+#: vc-modules/info-text.php:318
+msgid "Spacing between icon and title in px eg. 25"
+msgstr ""
+
+#: vc-modules/info-text.php:330
+msgid "Spacing between title and content in px eg. 12"
+msgstr ""
+
+#: vc-modules/info-text.php:103
+msgid "Squire"
+msgstr ""
+
+#: post-meta.php:224
+msgid "Stackoverflow"
+msgstr ""
+
+#: vc-modules/pricing-box.php:16
+msgid "STANDARD"
+msgstr ""
+
+#: vc-modules/law-slider.php:207 vc-modules/post.php:238
+#: vc-modules/team.php:313
+msgid "Stop autoplay on mouse hover. Default: Enable"
+msgstr ""
+
+#: vc-modules/testimonial.php:243
+msgid "Stop autoplay on mouse hover. Default: Enabled"
+msgstr ""
+
+#: vc-modules/law-slider.php:197 vc-modules/post.php:228
+#: vc-modules/team.php:303 vc-modules/testimonial.php:233
+msgid "Stop on Hover"
+msgstr ""
+
+#: vc-modules/counter.php:32 vc-modules/miako-cta.php:30 vc-modules/post.php:47
+#: vc-modules/title.php:27
+msgid "Style"
+msgstr ""
+
+#: vc-modules/counter.php:35 vc-modules/law-grid.php:42
+#: vc-modules/miako-cta.php:33 vc-modules/post.php:50
+#: vc-modules/pricing-box.php:31 vc-modules/team-grid.php:43
+#: vc-modules/title.php:30
+msgid "Style 1"
+msgstr ""
+
+#: vc-modules/counter.php:36 vc-modules/law-grid.php:43
+#: vc-modules/miako-cta.php:34 vc-modules/post.php:51
+#: vc-modules/pricing-box.php:32 vc-modules/team-grid.php:44
+msgid "Style 2"
+msgstr ""
+
+#: vc-modules/title.php:31
+msgid "Style 2(Title with Bar)"
+msgstr ""
+
+#: vc-modules/law-grid.php:44 vc-modules/post.php:52
+#: vc-modules/team-grid.php:45
+msgid "Style 3"
+msgstr ""
+
+#: vc-modules/law-grid.php:45 vc-modules/post.php:53
+msgid "Style 4"
+msgstr ""
+
+#: vc-modules/law-grid.php:46
+msgid "Style 5"
+msgstr ""
+
+#: vc-modules/law-grid.php:47
+msgid "Style 6"
+msgstr ""
+
+#: vc-modules/law-grid.php:48
+msgid "Style 7"
+msgstr ""
+
+#: vc-modules/miako-cta.php:57 vc-modules/title.php:88
+msgid "Subtitle"
+msgstr ""
+
+#: vc-modules/miako-cta.php:69 vc-modules/title.php:102
+msgid "Subtitle color"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:23
+msgid "Sunday"
+msgstr "Domingo"
+
+#: post-types.php:17
+msgid "Team"
+msgstr ""
+
+#: post-types.php:43
+msgid "Team Categories"
+msgstr ""
+
+#: post-types.php:42
+msgid "Team Category"
+msgstr ""
+
+#: post-types.php:13
+msgid "Team Member"
+msgstr "Equipe"
+
+#: post-meta.php:235
+msgid "Team Member Settings"
+msgstr ""
+
+#: post-types.php:14
+msgid "Team Members"
+msgstr "Nossa Equipe"
+
+#: post-meta.php:279
+msgid "Team Skills"
+msgstr ""
+
+#: post-types.php:28
+msgid "Testimonial"
+msgstr ""
+
+#: post-types.php:48
+msgid "Testimonial Categories"
+msgstr ""
+
+#: post-types.php:47
+msgid "Testimonial Category"
+msgstr ""
+
+#: post-meta.php:304
+msgid "Testimonial Info"
+msgstr ""
+
+#: post-types.php:29
+msgid "Testimonials"
+msgstr ""
+
+#: vc-modules/testimonial.php:71
+msgid "Text color"
+msgstr ""
+
+#: vc-modules/counter.php:99
+msgid "The total duration of the count animation in milisecond eg. 5000"
+msgstr ""
+
+#: post-meta.php:327
+msgid "This image will show in the slider"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:20
+msgid "Thursday"
+msgstr "Quinta"
+
+#: vc-modules/about.php:57 vc-modules/contact-info.php:27
+#: vc-modules/counter.php:114 vc-modules/info-text.php:244
+#: vc-modules/miako-cta.php:41 vc-modules/pricing-box.php:59
+#: vc-modules/text-with-button.php:40 vc-modules/title.php:38
+#: widgets/address-widget.php:71 widgets/rt-recent-post-widget.php:91
+#: widgets/social-widget.php:91
+msgid "Title"
+msgstr ""
+
+#: vc-modules/progress-bar.php:45
+msgid "Title Color"
+msgstr ""
+
+#: vc-modules/about.php:65 vc-modules/contact-info.php:42
+#: vc-modules/counter.php:49 vc-modules/info-text.php:252
+#: vc-modules/miako-cta.php:49 vc-modules/open-hour.php:56
+#: vc-modules/testimonial.php:57 vc-modules/text-with-button.php:48
+#: vc-modules/title.php:95
+msgid "Title color"
+msgstr ""
+
+#: vc-modules/about.php:73 vc-modules/info-text.php:284
+#: vc-modules/text-with-button.php:56
+msgid "Title Font Size"
+msgstr ""
+
+#: vc-modules/info-text.php:286
+msgid ""
+"Title font size in px. eg 20. If not defined, default h3 font size will be "
+"used"
+msgstr ""
+
+#: vc-modules/title.php:46
+msgid "Title Font Size( Desktop )"
+msgstr ""
+
+#: vc-modules/title.php:71
+msgid "Title Font Size( Mobile )"
+msgstr ""
+
+#: vc-modules/title.php:54
+msgid "Title Font Size( Tab )"
+msgstr ""
+
+#: vc-modules/text-with-button.php:64
+msgid "Title Font Weight"
+msgstr ""
+
+#: vc-modules/info-text.php:264
+msgid "Title Hover Color"
+msgstr ""
+
+#: vc-modules/info-text.php:276
+msgid "Title URL"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:86
+msgid "Title:"
+msgstr ""
+
+#: vc-modules/views/miako-cta-2.php:22
+msgid "Toll Free Call Us"
+msgstr ""
+
+#: vc-modules/miako-cta.php:18
+msgid "Toll Free. Call Us"
+msgstr ""
+
+#: post-meta.php:50
+msgid "Top Bar"
+msgstr ""
+
+#: post-meta.php:60
+msgid "Top Bar Layout"
+msgstr ""
+
+#: vc-modules/law-slider.php:91 vc-modules/post.php:144 vc-modules/team.php:179
+#: vc-modules/testimonial.php:88
+msgid "Total number of items"
+msgstr ""
+
+#: post-meta.php:40
+msgid "Transparent Header"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:18
+msgid "Tuesday"
+msgstr "Terça"
+
+#: post-meta.php:176
+msgid "Twitter"
+msgstr ""
+
+#: widgets/social-widget.php:103
+msgid "Twitter URL"
+msgstr ""
+
+#: vc-modules/pricing-box.php:76
+msgid "Unit Name"
+msgstr ""
+
+#: vc-modules/award-box.php:65 vc-modules/info-text.php:88
+msgid "Upload icon image"
+msgstr ""
+
+#: vc-modules/text-with-video.php:67
+msgid "Video link"
+msgstr ""
+
+#: vc-modules/law-grid.php:23 vc-modules/team-grid.php:23
+msgid "View All"
+msgstr ""
+
+#: vc-modules/views/team-5.php:57
+msgid "View Bio"
+msgstr ""
+
+#: demo-importer.php:12
+#, php-format
+msgid ""
+"Warning: All your old data will be lost if you install One Click demo data "
+"from here, so it is suitable only for a new website. For existing website "
+"please use XML data import method which is described in the documentation <a "
+"%s>here</a>"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:19
+msgid "Wednesday"
+msgstr "Quarta"
+
+#: vc-modules/open-hour.php:36
+msgid "Weekdays like \"Saturday , Sunday\""
+msgstr ""
+
+#: vc-modules/title.php:16
+msgid "Welcome To Miako "
+msgstr ""
+
+#: vc-modules/law-grid.php:96 vc-modules/post.php:131
+#: vc-modules/team-grid.php:71 vc-modules/team.php:166
+msgid "Word count"
+msgstr ""
+
+#: vc-modules/open-hour.php:16
+msgid "Working Hours"
+msgstr ""
+
+#: widgets/address-widget.php:75
+msgid "Working Time"
+msgstr ""
+
+#: vc-modules/law-grid.php:58 vc-modules/law-slider.php:94
+#: vc-modules/post.php:147 vc-modules/team-grid.php:112 vc-modules/team.php:182
+#: vc-modules/testimonial.php:91
+msgid "Write -1 to show all"
+msgstr ""
+
+#: vc-modules/law-slider.php:103 vc-modules/testimonial.php:82
+msgid "Write number to show all content."
+msgstr ""
+
+#: widgets/rt-recent-post-widget.php:10
+msgid "Your site&#8217;s most recent Posts with Image."
+msgstr ""
+
+#: post-meta.php:200
+msgid "Youtube"
+msgstr ""

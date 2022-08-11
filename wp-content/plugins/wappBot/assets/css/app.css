@@ -1,0 +1,359 @@
+body {
+	background: #f8f9fa!important;
+}
+
+.row {
+	position: relative;
+	width: 100%;
+}
+
+.row [class^="col"] {
+	float: left;
+	margin: 0.5rem 2%;
+	min-height: 0.125rem;
+}
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
+	width: 96%;
+}
+
+.col-1-sm {
+	width: 4.33%;
+}
+
+.col-2-sm {
+	width: 12.66%;
+}
+
+.col-3-sm {
+	width: 21%;
+}
+
+.col-4-sm {
+	width: 29.33%;
+}
+
+.col-5-sm {
+	width: 37.66%;
+}
+
+.col-6-sm {
+	width: 46%;
+}
+
+.col-7-sm {
+	width: 54.33%;
+}
+
+.col-8-sm {
+	width: 62.66%;
+}
+
+.col-9-sm {
+	width: 71%;
+}
+
+.col-10-sm {
+	width: 79.33%;
+}
+
+.col-11-sm {
+	width: 87.66%;
+}
+
+.col-12-sm {
+	width: 96%;
+}
+
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.hidden-sm {
+	display: none;
+}
+
+@media only screen and (min-width: 33.75em) {
+	/* 540px */
+	.container {
+		width: 80%;
+	}
+}
+
+@media only screen and (min-width: 45em) {
+	/* 720px */
+	.col-1 {
+		width: 4.33%;
+	}
+	.col-2 {
+		width: 12.66%;
+	}
+	.col-3 {
+		width: 21%;
+	}
+	.col-4 {
+		width: 29.33%;
+	}
+	.col-5 {
+		width: 37.66%;
+	}
+	.col-6 {
+		width: 46%;
+	}
+	.col-7 {
+		width: 54.33%;
+	}
+	.col-8 {
+		width: 62.66%;
+	}
+	.col-9 {
+		width: 71%;
+	}
+	.col-10 {
+		width: 79.33%;
+	}
+	.col-11 {
+		width: 87.66%;
+	}
+	.col-12 {
+		width: 96%;
+	}
+	.hidden-sm {
+		display: block;
+	}
+}
+
+.modal {
+	display: none;
+	/* Hidden by default */
+	position: fixed;
+	/* Stay in place */
+	z-index: 1;
+	/* Sit on top */
+	padding-top: 200px;
+	/* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%;
+	/* Full width */
+	height: 100%;
+	/* Full height */
+	overflow: auto;
+	/* Enable scroll if needed */
+	background-color: rgb(0, 0, 0);
+	/* Fallback color */
+	background-color: rgba(0, 0, 0, 0.4);
+	/* Black w/ opacity */
+}
+
+.modal-content {
+	background-color: #fefefe;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid #888;
+	width: 30%;
+	border-radius: 5px;
+}
+
+.close {
+	color: #aaaaaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.botao-wpp {
+	text-decoration: none;
+	color: #fff;
+	display: inline-block;
+	background-color: #25d366;
+	font-weight: bold;
+	padding: 1rem 2rem;
+	border-radius: 3px;
+	border: none;
+	width: 100%;
+	outline: none;
+}
+
+.botao-wpp:hover {
+	background-color: darken(#25d366, 5%);
+}
+
+.botao-wpp:focus {
+	background-color: darken(#25d366, 15%);
+}
+
+.botaoe-wpp {
+	text-decoration: none;
+	color: #fff;
+	display: inline-block;
+	background-color: #ff000099;
+	font-weight: bold;
+	padding: 1rem 2rem;
+	border-radius: 3px;
+	border: none;
+	width: 100%;
+	outline: none;
+}
+
+.botaoe-wpp:hover {
+	background-color: #ff0000c2;
+}
+
+.botaoe-wpp:focus {
+	background-color: #ff0000c2;
+}
+
+.custom-select {
+	position: relative;
+	font-family: Arial;
+}
+
+.custom-select select {
+	display: none;
+	/*hide original SELECT element: */
+}
+
+.select-selected {
+	background-color: #fff;
+}
+
+
+/* Style the arrow inside the select element: */
+
+.select-selected:after {
+	position: absolute;
+	content: "";
+	top: 14px;
+	right: 10px;
+	width: 0;
+	height: 0;
+	border: 6px solid transparent;
+	border-color: #dddddd transparent transparent transparent;
+}
+
+
+/* Point the arrow upwards when the select box is open (active): */
+
+.select-selected.select-arrow-active:after {
+	border-color: transparent transparent #fff transparent;
+	top: 7px;
+}
+
+
+/* style the items (options), including the selected item: */
+
+.select-items div,
+.select-selected {
+	color: #000;
+	padding: 8px 16px;
+	border: 1px solid transparent;
+	border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+	cursor: pointer;
+}
+
+
+/* Style items (options): */
+
+.select-items {
+	position: absolute;
+	background-color: #f8f9fa;
+	top: 100%;
+	left: 0;
+	right: 0;
+	z-index: 99;
+}
+
+
+/* Hide the items when the select box is closed: */
+
+.select-hide {
+	display: none;
+}
+
+.select-items div:hover,
+.same-as-selected {
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+.wapptitle {
+	margin-top: 20px!important;
+	max-width: 45%!important;
+	border: 1px solid #e8e8e8!important;
+	border-radius: 5px!important;
+	z-index: 999
+}
+
+.wapptitletext {
+	padding-left: 20px!important;
+}
+
+.fillbutton {
+	background: #f8f9fa!important;
+	color: #aaa!important;
+}
+
+.wappalert {
+	background: #ffeaa3!important;
+	color: #9c7c11!important;
+	border-radius: 3px!important;
+	padding: 15px!important;
+}
+
+.wappinputs {
+	border: 1px solid #e8e8e8!important;
+	width: 100%!important;
+}
+
+.wappshowbtn {
+	float: right!important;
+	margin-top: -24px!important;
+	margin-right: 10px!important;
+	position: relative!important;
+	font-size: 12px!important;
+	border: none!important;
+	border-radius: 15px!important;
+	outline: none!important;
+}
+
+.wappstatuszero {
+	background: #b7ffb5!important;
+	color: #137a10!important;
+	border-radius: 3px!important;
+	padding: 15px!important;
+}
+
+.wappstatusone {
+	background: #ffeaa3!important;
+	color: #9c7c11!important;
+	border-radius: 3px!important;
+	padding: 15px!important;
+}
+
+.wapptable {
+    margin: 0 auto!important;
+    max-width: 100%!important;
+	width: 95%!important;
+	border:1px solid #e8e8e8!important;
+	margin-bottom:25px!important;
+}

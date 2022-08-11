@@ -1,0 +1,39 @@
+<wpml-config>
+    <admin-texts>
+        <key name="miako">
+            <key name="phone" />
+            <key name="email" />
+            <key name="address" />
+            <key name="hour" />
+            <key name="copyright_text" />
+            <key name="header_btn_txt" />
+            <key name="error_title" />
+            <key name="error_text1" />
+            <key name="error_text2" />
+            <key name="error_buttontext" />
+        </key>
+    </admin-texts>
+    <custom-types>
+        <custom-type translate="1">miako_service</custom-type>
+        <custom-type translate="1">miako_law</custom-type>
+        <custom-type translate="1">miako_team</custom-type>
+        <custom-type translate="1">miako_testimonial</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">miako_service_category</taxonomy>
+        <taxonomy translate="1">miako_law_category</taxonomy>
+        <taxonomy translate="1">miako_team_category</taxonomy>
+        <taxonomy translate="1">miako_testimonial_category</taxonomy>
+    </taxonomies>
+    <custom-fields>
+       <custom-field action="translate">miako_team_designation</custom-field>
+       <custom-field action="translate">miako_team_phone</custom-field>
+       <custom-field action="translate">miako_team_email</custom-field>
+       <custom-field action="translate">miako_team_socials_header</custom-field>
+       <custom-field action="translate">miako_team_socials</custom-field>
+       <custom-field action="translate">miako_tes_designation</custom-field>
+       <custom-field action="translate">skill_name</custom-field>
+       <custom-field action="translate">skill_value</custom-field>
+       <custom-field action="translate">skill_bar_color</custom-field>
+   </custom-fields>
+</wpml-config>

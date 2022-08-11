@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RT Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-02 13:11+0000\n"
+"PO-Revision-Date: 2020-07-02 13:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: inc/rt-posts.php:48
+msgid " not found"
+msgstr ""
+
+#: inc/rt-posts.php:49
+msgid " not found in Trash"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:74
+msgid "Add More"
+msgstr ""
+
+#: inc/rt-posts.php:41 inc/rt-posts.php:42 inc/rt-posts.php:94
+msgid "Add New"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:293
+msgid "Add/Edit Gallery Images"
+msgstr ""
+
+#: inc/rt-posts.php:45 inc/rt-posts.php:89
+msgid "All"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:316
+msgid "Choose File"
+msgstr ""
+
+#: inc/rt-widget-fields.php:88 inc/rt-postmeta-fields.php:267
+msgid "Choose Image"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:199
+msgid "Click here to select options"
+msgstr ""
+
+#: inc/rt-posts.php:43 inc/rt-posts.php:92
+msgid "Edit"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://radiustheme.com"
+msgstr ""
+
+#: inc/rt-posts.php:44
+msgid "New"
+msgstr ""
+
+#: inc/rt-posts.php:95
+msgid "New name of"
+msgstr ""
+
+#: inc/rt-posts.php:90 inc/rt-posts.php:91
+msgid "Parent"
+msgstr ""
+
+#. Author of the plugin
+msgid "Radius Theme"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:294
+msgid "Remove All Images"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:317
+msgid "Remove File"
+msgstr ""
+
+#: inc/rt-widget-fields.php:89 inc/rt-postmeta-fields.php:268
+msgid "Remove Image"
+msgstr ""
+
+#. Name of the plugin
+msgid "RT Framework"
+msgstr ""
+
+#: inc/rt-posts.php:47 inc/rt-posts.php:88
+msgid "Search"
+msgstr ""
+
+#. Description of the plugin
+msgid "Theme Framework by RadiusTheme"
+msgstr ""
+
+#: inc/rt-posts.php:93
+msgid "Update"
+msgstr ""
+
+#: inc/rt-posts.php:46
+msgid "View"
+msgstr ""

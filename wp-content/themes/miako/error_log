@@ -1,0 +1,12 @@
+[29-Apr-2022 17:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'RDTheme' not found in /home/cedrotransportes/public_html/carlospatricio.com.br/wp-content/themes/miako/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cedrotransportes/public_html/carlospatricio.com.br/wp-content/themes/miako/404.php on line 8
+[30-Apr-2022 22:32:53 UTC] PHP Fatal error:  Uncaught Error: Class 'RDTheme' not found in /home/cedrotransportes/public_html/carlospatricio.com.br/wp-content/themes/miako/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cedrotransportes/public_html/carlospatricio.com.br/wp-content/themes/miako/404.php on line 8
+[15-Jun-2022 16:18:54 UTC] PHP Fatal error:  Uncaught Error: Class 'RDTheme' not found in /home/cedrotransportes/public_html/carlospatricio.com.br/wp-content/themes/miako/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cedrotransportes/public_html/carlospatricio.com.br/wp-content/themes/miako/404.php on line 8

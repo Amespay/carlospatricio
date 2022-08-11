@@ -1,0 +1,4 @@
+[10-Dec-2020 10:51:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/cedrotransportes/public_html/carlospatricio.com.br/wp-includes/update.php:878
+Stack trace:
+#0 {main}
+  thrown in /home/cedrotransportes/public_html/carlospatricio.com.br/wp-includes/update.php on line 878
